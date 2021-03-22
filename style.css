@@ -1,0 +1,21 @@
+    
+    .nav-item:hover {
+        background-color: #0000ff33;
+    }
+    
+    .d-block {
+        height: 580px;
+    }
+    
+    .card img {
+        height: 213px;
+    }
+    /* .card img:hover {
+        width: 1000px;
+        height: 400px;
+    } */
+ @media only screen and(max-width:580px){
+    .card-group{
+        width: 100%;
+    }
+ }
