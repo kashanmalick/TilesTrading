@@ -10,6 +10,12 @@
     .card img {
         height: 213px;
     }
+    .imggroup{
+        margin-left: 5%;
+    }
+    .imggroup img{
+        margin: 1%;
+    }
     /* .card img:hover {
         width: 1000px;
         height: 400px;
